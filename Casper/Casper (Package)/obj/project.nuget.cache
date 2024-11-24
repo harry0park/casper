@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXmcbio/zipllxUa8u1UbLb3zHy9sQA2AFgdIPDad5QRRfkJrg9+N019PxwEbRT7CUDRXzNMF4M9RUMutCJ4OA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\00.coding\\1.selft_proj\\casper\\Casper\\Casper (Package)\\Casper (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\harry\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221109.1\\microsoft.windowsappsdk.1.2.221109.1.nupkg.sha512"
+  ],
+  "logs": []
+}
