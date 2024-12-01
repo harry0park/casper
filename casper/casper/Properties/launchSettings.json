@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "casper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "casper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
