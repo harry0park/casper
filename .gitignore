@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/casper/casper/obj/casper.csproj.nuget.dgspec.json
+/casper/casper/obj/project.nuget.cache
+/casper/casper/obj/project.assets.json
+/casper/.vs/casper/v17/.suo
